@@ -1,1 +1,1 @@
-# StandardDevitation
+# StandardDeviation
